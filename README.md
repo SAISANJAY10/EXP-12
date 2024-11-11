@@ -31,9 +31,8 @@ To securely exchange a message between two users using the ElGamal encryption an
 ## Code
 
 ```
-## NAME: SAI SANJAY R
-
-## REG NO: 212223040178
+NAME: SAI SANJAY R
+REG NO: 212223040178
 ```
 
 Here is the implementation of the ElGamal encryption and decryption algorithm in C:
