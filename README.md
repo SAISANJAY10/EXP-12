@@ -32,8 +32,8 @@ To securely exchange a message between two users using the ElGamal encryption an
 ## Code
 
 ```
-NAME: SAI SANJAY R
-REG NO: 212223040178
+NAME: LEKASRI G
+REG NO: 212223100025
 ```
 
 Here is the implementation of the ElGamal encryption and decryption algorithm in C:
@@ -92,7 +92,7 @@ int main() {
 }
 ```
 ## Output:
-![EXP 12](https://github.com/user-attachments/assets/31b36c57-7ae7-4339-a505-89027a3b3e64)
+![image](https://github.com/user-attachments/assets/edce7d01-2321-43c5-8512-eb0e1c6432aa)
 
 ## Result:
 The program for Elgamal encryption and decryption was exceuted successfully. Alice and Bob exchanged an encrypted message and verified that the decrypted message matched the original message.
