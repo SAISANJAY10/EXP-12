@@ -2,6 +2,7 @@
 
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
+## Date:
 
 ## Aim
 To securely exchange a message between two users using the ElGamal encryption and decryption algorithm, implemented in C.
